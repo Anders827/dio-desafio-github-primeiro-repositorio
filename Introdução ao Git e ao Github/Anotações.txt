@@ -1,0 +1,2 @@
+link para download do Git: http://git-scm.com/
+O Git Bash é um terminal extendido para abrir projetos do GitHub
